@@ -1,5 +1,0 @@
-print('hello world')
-print('hello python')
-input()
-print('something stupid')
-print('something stupid')
